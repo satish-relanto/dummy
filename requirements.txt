@@ -1,0 +1,6 @@
+fastapi
+google-cloud-aiplatform
+python-dotenv
+uvicorn
+httpx
+pytest
